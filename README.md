@@ -1,4 +1,4 @@
 # blank
-A blank website that changes its background color depending on your system. Website made using bootstrap studio because too lazy to use vs code. Check out the bootstrap studio file in the repo. 
+A blank website that changes its background color depending on your system. A lovely alternative to about:blank which blinds your eyes.
 ## Why?
 Why not ;)
